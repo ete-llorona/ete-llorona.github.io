@@ -31,9 +31,19 @@ url: "https://ete-llorona.github.io" # the base hostname & protocol for your sit
 github_username:  ete-llorona
 
 # Build settings
-theme: minima
+theme: plainwhite
 plugins:
   - jekyll-feed
+
+remote_theme: samarsault/plainwhite-jekyll
+
+plainwhite:
+  name: ete-llorona
+  date_format: "%b %-d, %Y"
+  portfolio_image: "asset/image.jpg"
+
+  social_links:
+    github: ete-llorona
 
 # Exclude from processing.
 # The following items will not be processed, by default.
