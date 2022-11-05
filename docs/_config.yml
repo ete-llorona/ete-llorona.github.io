@@ -31,7 +31,7 @@ url: "https://ete-llorona.github.io" # the base hostname & protocol for your sit
 github_username:  ete-llorona
 
 # Build settings
-theme: plainwhite
+#theme: plainwhite
 plugins:
   - jekyll-feed
 
